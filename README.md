@@ -1,2 +1,5 @@
 # charing-cross-sign
-Charing Cross Car Care — sign design.
+
+Client review page for Charing Cross Car Care Center.
+
+https://bsingh-orion.github.io/charing-cross-sign/
